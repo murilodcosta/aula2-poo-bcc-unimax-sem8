@@ -1,5 +1,3 @@
-package model;
-
 public class FuncProducao extends Funcionario {
     private String turno;
 

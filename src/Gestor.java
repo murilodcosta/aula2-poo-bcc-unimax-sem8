@@ -1,5 +1,3 @@
-package model;
-
 public class Gestor extends Funcionario {
 
     public Gestor() {
